@@ -1,2 +1,2 @@
 #!/bin/bash
-0 string SCHOOL data !:mime School/file
+0 string SCHOOL School !:mime School/file
