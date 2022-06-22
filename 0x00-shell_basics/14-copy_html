@@ -1,1 +1,2 @@
-#!/bin/bash \ncp -u *.html ..
+#!/bin/bash 
+cp -u *.html ..
