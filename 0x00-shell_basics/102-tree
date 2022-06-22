@@ -1,1 +1,2 @@
-#!/bin/bash \nmkdir welcome/; mkdir welcome/to/; mkdir welcome/to/school
+#!/bin/bash 
+mkdir welcome/; mkdir welcome/to/; mkdir welcome/to/school
