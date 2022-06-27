@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -h 3p iacta
+echo -lt -3 | head iacta
