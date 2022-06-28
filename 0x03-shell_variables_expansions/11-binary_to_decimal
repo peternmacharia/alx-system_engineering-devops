@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $((dec10base(10,$BINARY)))
