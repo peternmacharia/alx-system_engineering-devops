@@ -1,5 +1,5 @@
 # ALX SYSTEM ENGINEERING DEVOPS REPOSITORY
-### This repo is derived from ALX Program and contains the items below described item
+### This repo is derived from ALX Program and contains the below described item
 --------------------------------------------------------------------------------------
 This repo contains the below project files:
 - Shell Basics
